@@ -57,4 +57,3 @@ As AI adoption accelerates across industries, which workers are actually most ex
 - `requirements.txt` — Python dependencies
 
 ---
-*Part of an ongoing data analyst portfolio. See more projects at [your portfolio link].*
