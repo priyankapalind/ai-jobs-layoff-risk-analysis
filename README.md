@@ -57,3 +57,14 @@ As AI adoption accelerates across industries, which workers are actually most ex
 - `requirements.txt` — Python dependencies
 
 ---
+
+# 👩‍💻 Author
+
+**Priyanka Pal**
+
+Aspiring Data Analyst
+
+### Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/priyankapal09/
+- GitHub: https://github.com/priyankapalind
